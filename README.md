@@ -1,6 +1,6 @@
 ### Hi there, I'm Vinícius 👋
 
-## I'm a Dreamer, Fighter, Developer and Musician!!
+## I'm a Dreamer, Developer and Musician!!!
 
 - 🔭 I just starting a Computer Engineering degree
 - 🌱 I’m currently learning everything 🤣
