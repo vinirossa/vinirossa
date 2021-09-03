@@ -1,10 +1,10 @@
-### Hi there, I'm Vinícius 👋
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there, I'm Vinícius!
 
-## I'm a Dreamer, Fighter, Developer and Musician!!
+### About me...
 
-- 🔭 I just starting a Computer Engineering degree
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 💼 Current Support Analyst at **@TIDSoftware**
+- 💻 I'm just starting a Computer Engineering degree
+- 🌱 I’m currently improving my Node.js knowledge
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to practice Muay Thai and play guitar
 
@@ -19,6 +19,15 @@
 
 ---
 
+### :zap: GitHub Stats
+   
+![Vinícius' GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinirossa&show_icons=true&theme=ayu-mirage)
+
+### :zap: Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinirossa&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -29,13 +38,6 @@
 4. 🗣 Commented on [#11](https://github.com/vinirossa/free-developer-resources/issues/11) in [vinirossa/free-developer-resources](https://github.com/vinirossa/free-developer-resources)
 5. 🎉 Merged PR [#10](https://github.com/vinirossa/free-developer-resources/pull/10) in [vinirossa/free-developer-resources](https://github.com/vinirossa/free-developer-resources)
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="vinirossa's GitHub Stats" src="https://github-readme-stats.vinirossa.vercel.app/api?username=vinirossa&show_icons=true&hide_border=true" />
 
 </details>
 
