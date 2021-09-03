@@ -1,9 +1,9 @@
-### Hi there, I'm Vinícius 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there, I'm Vinícius!
 
-## I'm a Dreamer, Developer and Musician!!!
+## I'm an Analyst, Developer and Musician!!!
 
 - 🔭 I just starting a Computer Engineering degree
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently improving my Node.js knowledge
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to practice Muay Thai and play guitar
