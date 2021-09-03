@@ -15,8 +15,6 @@
 - 🎯 2021 Goals: Contribute more to Open Source projects
 - 💥 Fun Fact: I love to practice muay thai and play guitar
 
-<br />
-
 ---
 
 ### ⚡ GitHub Stats
