@@ -1,20 +1,20 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there, I'm Vinícius!
 
+---
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Vinícius%20Pereira-444fc4?style=flat&labelColor=444fc4&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/vinirossa)](linkedin) 
+[![Instagram Badge](https://img.shields.io/badge/-@vinirossa-444fc4?style=flat&labelColor=444fc4&logo=instagram&logoColor=white&link=https://instagram.com/vinirossa)](instagram) 
+[![Twitter Badge](https://img.shields.io/badge/-@vinirossa_-444fc4?style=flat&labelColor=444fc4&logo=twitter&logoColor=white&link=https://twitter.com/vinirossa_)](twitter) 
+[![Gmail Badge](https://img.shields.io/badge/-viniciuspsb@gmail.com-444fc4?style=flat&logo=Gmail&logoColor=white&link=mailto:viniciuspsb@gmail.com)](gmail)
+
 ### About me:
 
-- 💼 Support Analyst at TIDSoftware
+- 💼 Support and QA Analyst at @TIDSoftware
 - 💻 I'm just starting a Computer Engineering degree
-- 🌱 I’m currently improving my Node.js knowledge
+- 🌱 I’m currently improving my Node.js and React knowledge
 - 🎯 2021 Goals: Contribute more to Open Source projects
 - 💥 Fun Fact: I love to practice muay thai and play guitar
 
-### Connect with me:
-
-[<img align="left" alt="vinirossa | LinkedIn" width="22px" style="padding:5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vinirossa | Instagram" width="22px" style="padding:5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="vinirossa_ | Twitter" width="22px" style="padding:5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
 <br />
 
 ---
@@ -41,7 +41,8 @@
 
 <br />
 
-
+<!-- Link Variables -->
+[linkedin]: https://linkedin.com/in/vinirossa
+[instagram]: https://instagram.com/vinirossa
 [twitter]: https://twitter.com/vinirossa_
-[instagram]: https://www.instagram.com/vinirossa
-[linkedin]: www.linkedin.com/in/vinirossa
+[gmail]: mailto:viniciuspsb@gmail.com
