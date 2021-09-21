@@ -30,7 +30,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinirossa&repo=react-calculator&theme=ayu-mirage" />
 </a>
 
-
 <a href="https://github.com/vinirossa/decision-tree-algorithm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinirossa&repo=decision-tree-algorithm&theme=ayu-mirage" />
 </a> 
