@@ -26,13 +26,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinirossa&layout=compact&langs_count=7&theme=ayu-mirage" />
 </a>
 
-<a href="https://github.com/vinirossa/vscode-webdev-pack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinirossa&repo=vscode-webdev-pack&theme=ayu-mirage" />
+<a href="https://github.com/vinirossa/react-calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinirossa&repo=react-calculator&theme=ayu-mirage" />
 </a>
 
 
-<a href="https://github.com/vinirossa/vscode-gitandgithub-pack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinirossa&repo=vscode-gitandgithub-pack&theme=ayu-mirage" />
+<a href="https://github.com/vinirossa/decision-tree-algorithm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinirossa&repo=decision-tree-algorithm&theme=ayu-mirage" />
 </a> 
 
 <br />
