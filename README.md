@@ -7,10 +7,10 @@
 
 ### About me:
 
-- 💼 Support and QA Analyst at @TIDSoftware
+- 💼 .NET Backend Developer at @TIDSoftware
 - 💻 I'm just starting a Computer Engineering degree
 - 🌱 I’m currently improving my Node.js and React knowledge
-- 🎯 2021 Goals: Contribute more to Open Source projects
+- 🎯 2022 Goals: Contribute more to Open Source projects
 - 💥 Fun Fact: I love to practice muay thai and play guitar
 
 ---
