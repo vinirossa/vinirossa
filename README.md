@@ -7,9 +7,9 @@
 
 ### About me:
 
-- 💼 .NET Backend Developer at @TIDSoftware
+- 💼 .NET Backend Developer at @Pecege
 - 💻 I'm just starting a Computer Engineering degree
-- 🌱 I’m currently improving my Node.js and React knowledge
+- 🌱 I’m currently improving my TypeScript and React knowledge
 - 🎯 2022 Goals: Contribute more to Open Source projects
 - 💥 Fun Fact: I love to practice muay thai and play guitar
 
