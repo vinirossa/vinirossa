@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there, I'm Vinícius!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hello there, I'm Vinícius!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Vinícius%20Pereira-3a5cb2?style=flat&labelColor=3a5cb2&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/vinirossa)][linkedin] 
 [![Instagram Badge](https://img.shields.io/badge/-@vinirossa-3a5cb2?style=flat&labelColor=3a5cb2&logo=instagram&logoColor=white&link=https://instagram.com/vinirossa)][instagram] 
