@@ -7,11 +7,11 @@
 
 ### About me:
 
-- 💼 .NET Backend Developer at @Pecege
-- 💻 I'm just starting a Computer Engineering degree
-- 🌱 I’m currently improving my TypeScript, NestJS and React knowledge
-- 🎯 2022 Goals: Contribute more to Open Source projects
-- 💥 Fun Fact: I love to practice muay thai and play guitar
+- 💼 .NET & Node.js Backend Developer at @Pecege
+- 💻 I'm almost finishing my Computer Engineering degree
+- 🌱 I’m currently improving my AI and LLM knowlodge
+- 🎯 2026 Goals: Contribute more to Open Source projects
+- 💥 Fun Fact: I love to practice muay thai and play milsims
 
 ---
 
