@@ -42,7 +42,7 @@ Enterprise-grade REST API template with CQRS architecture and 99%+ test coverage
 
 ### 📌 Featured Projects
 
-<a href="https://github.com/vinirossa/nest-api-boilerplate">
+<a href="https://github.com/vinirossa/nest-api-boilerplate-demo">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vinirossa&repo=nest-api-boilerplate-demo&theme=ayu-mirage" />
 </a>
 <a href="https://github.com/vinirossa/vscode-gitandgithub-pack">
