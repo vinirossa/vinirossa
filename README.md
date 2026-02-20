@@ -42,16 +42,16 @@ Enterprise-grade REST API template with CQRS architecture and 99%+ test coverage
 
 ### 📌 Featured Projects
 
-<a href="https://github.com/vinirossa/react-calculator">
+<a href="https://github.com/vinirossa/nest-api-boilerplate">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vinirossa&repo=nest-api-boilerplate-demo&theme=ayu-mirage" />
 </a>
-<a href="https://github.com/vinirossa/decision-tree-algorithm">
+<a href="https://github.com/vinirossa/vscode-gitandgithub-pack">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vinirossa&repo=vscode-gitandgithub-pack&theme=ayu-mirage" />
 </a> 
-<a href="https://github.com/vinirossa/react-calculator">
+<a href="https://github.com/vinirossa/translate-file">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vinirossa&repo=translate-file&theme=ayu-mirage" />
 </a>
-<a href="https://github.com/vinirossa/decision-tree-algorithm">
+<a href="https://github.com/vinirossa/software-engineering">
   <img align="top" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=vinirossa&repo=software-engineering&theme=ayu-mirage" />
 </a> 
 
