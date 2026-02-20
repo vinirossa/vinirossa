@@ -18,7 +18,7 @@
 
 I create **production-ready dev tools** as **Ch1ef - The Dev**
 
-#### 🚀 NestJS API Boilerplate
+#### 🚀 NestJS Ultimate Boilerplate
 Enterprise-grade REST API template with CQRS architecture and 99%+ test coverage.
 
 - ✅ Better Auth (2024) - Modern authentication
